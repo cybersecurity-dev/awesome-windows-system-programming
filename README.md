@@ -1,10 +1,13 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/System_programming_language">
-      <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/System_programming_language">
+          <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+        </a>
+    </p>
 
-# Awesome Windows System Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Windows System Programming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/windows/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiU0opdpyV_TZGHRteNp3G5s&si=qeR4hke08fKQ62IP)
